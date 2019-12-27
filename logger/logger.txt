@@ -1,0 +1,9 @@
+localhost - [07/Oct/2019:05:37:10 -0700] "GET / HTTP/1.1"  200 3228
+localhost - [07/Oct/2019:05:37:10 -0700] "GET /images/sushi.jpg HTTP/1.1"  200 40183
+localhost - [07/Oct/2019:05:37:10 -0700] "GET /js/image-test.js HTTP/1.1"  200 678
+localhost - [07/Oct/2019:05:37:11 -0700] "GET /favicon.ico HTTP/1.1"  404 0
+localhost - [07/Oct/2019:05:38:13 -0700] "PUT /abc.html HTTP/1.1"  201 0
+localhost - [07/Oct/2019:05:38:18 -0700] "DELETE /abc.html HTTP/1.1"  204 0
+localhost - [07/Oct/2019:05:38:23 -0700] "COPY /abc.html HTTP/1.1"  400 0
+localhost - [07/Oct/2019:05:38:30 -0700] "GET /abc.html HTTP/1.1"  404 0
+localhost - [07/Oct/2019:05:39:51 -0700] "GET /ab/index.html HTTP/1.1"  200 162
